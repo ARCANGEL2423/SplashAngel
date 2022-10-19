@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MySplashAngel</string>
+    <string name="label1">Contraseña</string>
+    <string name="label2">Nombre de usuario</string>
+    <string name="label3">Usuario</string>
+    <string name="label4">Inicio de sesión</string>
+    <string name="label5">Registrar</string>
+    <string name="botonP">Olvide mi contraseña</string>
+    <string name="botonS">Acceder</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña email</string>
+    <string name="Iniciar">Inicia sesión o registrate</string>
+    <string name="IniciarChiqui">Ini sesión</string>
+
+    <string name="Registro">Registro</string>
+    <string name="Bienvenido">"Bienvenido"</string>
+    <string name="NombreInvalido">Nombre de usuario invalido</string>
+    <string name="ContraseñaInvalida">Contraseña mayor a 5 caracteres</string>
+    <string name="InicioFallido">"Inicio de sesión fallido"</string>
+    <string name="correo">Correo</string>
+    <string name="Batizchosa">¿Eres de la Batizchosa?</string>
+    <string name="Continuar">Continuar</string>
+
+    <string name="Correje">Correo de referencia</string>
+    <string name="Masc">Masculino</string>
+    <string name="Feme">Femenino</string>
+    <string name="Genero">Género</string>
+    <string name="Notificacion">¿Desea recibir notificaciones?</string>
+
+    <string name="Numero">Número</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Edad">Edad</string>
+    <string name="Polimerca">¿Eres de la Polimerca ?</string>
+    <string name="Euforia">¿Estas euforico ;D?</string>
+    <string name="Empresa">Por: ArContec</string>
+    <string name="Recuperar">Recuperar</string>
+    <string name="Menu">Menu</string>
+    <string name="unu">En vias de desarrollo ^^</string>
+
+
+</resources>
